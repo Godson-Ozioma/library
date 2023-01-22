@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Book\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Book()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Book\r\n
+comment2.params=reader
+comment2.target=void\ readData(java.util.Scanner)
+comment2.text=\r\n\ Read\ the\ data\ using\ the\ scanner\ object\ in\ the\ parameter\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ Display\ the\ details\ of\ the\ book\r\n
+numComments=4

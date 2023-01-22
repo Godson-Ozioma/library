@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DVD
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DVD\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=DVD()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DVD\r\n
+comment2.params=reader
+comment2.target=void\ readData(java.util.Scanner)
+comment2.text=\r\n\ Read\ the\ data\ of\ the\ class\ using\ the\ scanner\ object\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ Print\ the\ details\ of\ the\ CD\ to\ the\ terminal\ window\r\n
+numComments=4
