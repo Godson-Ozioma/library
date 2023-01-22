@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LibraryItem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LibraryItem\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=title\ itemCode\ cost\ timesBorrowed\ onLoan
+comment1.target=LibraryItem(java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LibraryItem\r\n
+comment2.params=
+comment2.target=LibraryItem()
+comment2.text=\r\n\ Hard-coded\ constructor\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment3.text=\r\n\ return\ the\ title\ of\ the\ item\r\n
+comment4.params=
+comment4.target=java.lang.String\ getItemCode()
+comment5.params=
+comment5.target=void\ printDetails()
+comment5.text=\r\n\ Display\ the\ detaild\ of\ the\ library\ item\r\n
+comment6.params=reader
+comment6.target=void\ readData(java.util.Scanner)
+comment6.text=\r\n\ Read\ data\ using\ the\ scanner\ in\ the\ parameter\r\n
+numComments=7

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ItemReservation
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ItemReservation\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=reservationNo\ itemCode\ userID\ startDate\ noOfDays
+comment1.target=ItemReservation(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ItemReservation\r\n
+comment2.params=
+comment2.target=ItemReservation()
+comment3.params=
+comment3.target=java.lang.String\ getReservationNo()
+comment4.params=
+comment4.target=java.util.Date\ getStartDate()
+comment5.params=
+comment5.target=int\ getNoOfDays()
+comment6.params=
+comment6.target=void\ printDetails()
+comment7.params=reader
+comment7.target=void\ readData(java.util.Scanner)
+comment8.params=writer
+comment8.target=void\ writeData(java.io.PrintWriter)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
